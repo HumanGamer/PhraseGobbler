@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhraseGobbler", "PhraseGobbler\PhraseGobbler.csproj", "{F7710C3E-04C3-40FE-80D7-8B66B4658789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7710C3E-04C3-40FE-80D7-8B66B4658789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7710C3E-04C3-40FE-80D7-8B66B4658789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7710C3E-04C3-40FE-80D7-8B66B4658789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7710C3E-04C3-40FE-80D7-8B66B4658789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44BEAC5B-55F6-4421-A1D7-E1F586DE4F25}
+	EndGlobalSection
+EndGlobal
