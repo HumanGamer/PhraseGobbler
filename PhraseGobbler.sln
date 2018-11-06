@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhraseGobbler", "PhraseGobbler\PhraseGobbler.csproj", "{F7710C3E-04C3-40FE-80D7-8B66B4658789}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextGobbler", "TextGobbler\TextGobbler.csproj", "{B8040C52-CF65-43A4-879B-7CA440F2468A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F7710C3E-04C3-40FE-80D7-8B66B4658789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7710C3E-04C3-40FE-80D7-8B66B4658789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7710C3E-04C3-40FE-80D7-8B66B4658789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8040C52-CF65-43A4-879B-7CA440F2468A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8040C52-CF65-43A4-879B-7CA440F2468A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8040C52-CF65-43A4-879B-7CA440F2468A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8040C52-CF65-43A4-879B-7CA440F2468A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
